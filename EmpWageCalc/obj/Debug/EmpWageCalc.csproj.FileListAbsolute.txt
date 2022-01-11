@@ -1,0 +1,8 @@
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\bin\Debug\EmpWageCalc.exe.config
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\bin\Debug\EmpWageCalc.exe
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\bin\Debug\EmpWageCalc.pdb
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\obj\Debug\EmpWageCalc.csproj.AssemblyReference.cache
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\obj\Debug\EmpWageCalc.csproj.SuggestedBindingRedirects.cache
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\obj\Debug\EmpWageCalc.csproj.CoreCompileInputs.cache
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\obj\Debug\EmpWageCalc.exe
+E:\CODING\Coding\React Web Apps\coreAPI\Fellowship\EmpWageCalc\EmpWageCalc\obj\Debug\EmpWageCalc.pdb

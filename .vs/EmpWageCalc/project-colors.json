@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "051f6b21-4874-4245-8eeb-c1ebd9539f6e": {
+      "ProjectGuid": "051f6b21-4874-4245-8eeb-c1ebd9539f6e",
+      "DisplayName": "EmpWageCalc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
